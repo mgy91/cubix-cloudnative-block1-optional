@@ -14,7 +14,7 @@ runtime:
       value: "200"
     - expression: res("message")
       operator: eq
-      value: Hello DevOps students!
+value: Hello Cubix Cloud-native students! Hello DevOps students!
 
 settings:
   encodeUrl: true
